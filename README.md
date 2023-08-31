@@ -1,1 +1,1 @@
-# Modelling-and-Controller-Desigin-of-Inverted-cart-Pendulum
+# Modelling and controller design for an inverted pendulum on a moving cart 
